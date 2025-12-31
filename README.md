@@ -1,6 +1,6 @@
 # Color Theme Picker
 
-A React-based color theme picker application.
+A React-based color theme picker application. Try [here](https://kassenq.github.io/color-theme-picker/).
 
 ## Getting Started
 
